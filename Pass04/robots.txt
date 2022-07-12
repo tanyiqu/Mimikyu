@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Disallow: f1ag_1s_h3re.php
