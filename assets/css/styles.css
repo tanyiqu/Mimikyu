@@ -1,0 +1,53 @@
+@media (max-width:1220px) {
+  .btns {
+    /*max-width: 1140px;*/
+    margin-top: 12px;
+  }
+}
+
+@media (max-width:940px) {
+  .btnsm {
+    /*max-width: 1140px;*/
+    margin-top: 12px;
+  }
+}
+
+.list-group-item:hover {
+  position: relative;
+  display: block;
+  padding: .5rem 1rem;
+  color: #212529;
+  text-decoration: none;
+  background-color: #d1e7dd;
+  border: 1px solid rgba(0,0,0,.125);
+  transition: all 0.2s ease 0s;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: .5rem 1rem;
+  color: #212529;
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,.125);
+  transition: all 0.2s ease 0s;
+}
+
+.btn-hover {
+  transition: all 0.2s ease 0s;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.69);
+}
+
+.btn-hover:hover {
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.79);
+  transition: all 0.2s ease 0s;
+  background-color: black;
+}
+
+.btn-hover {
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.48);
+  background-color: black;
+  border-radius: 36px;
+  border: none;
+}
+
