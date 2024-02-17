@@ -15,7 +15,7 @@
 if(!isset($_GET[1])){
     die();
 }
-if($_GET[1] === '1'){
+if($_GET[1] === '2'){
     echo 'flag{xxccvvbbnn}';
 }
 ?>
